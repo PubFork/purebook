@@ -1,7 +1,7 @@
 ### 笔趣阁极速版
 
 > 自己有服务器的可以自己部署搞一搞  我这阿里云1core 2g 你懂得...
->    [博客说明](https://leetomlee.xyz/posts/purebook/)
+>    [博客说明](https://www.leetomlee.xyz/posts/purebook/)
 > 可以来个star  手动滑稽
 
 <img src="https://images.gitee.com/uploads/images/2020/0319/132723_d046df2c_1823265.jpeg" alt="书架"  style="zoom: 25%;" />
